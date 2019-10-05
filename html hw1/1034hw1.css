@@ -7,7 +7,7 @@ body {
 }
 
 .body {
-    
+    margin: 0 auto;
     background-color: #edf2c5;
     padding: 0 160px;
     width: 940px;
@@ -169,6 +169,7 @@ li {
 }
 
 footer{
+    margin: 0 auto;
     display: flex;
     justify-content: center;
     width: 1260px;
